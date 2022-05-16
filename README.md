@@ -8,4 +8,5 @@
   </a>
 </div>
 <br>
-<img src="https://count.getloli.com/get/@kgpdx?theme=asoul" alt="visitor count :D" />
+
+![visitors](https://count.getloli.com/get/@kgpdx?theme=asoul)

@@ -9,4 +9,4 @@
 </div>
 <br>
 
-![visitors](https://count.getloli.com/get/@kgpdx?theme=asoul)
+![visitors](https://counter.headpatmonster.repl.co/get/@kgpdx?theme=asoul)

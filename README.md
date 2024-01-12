@@ -9,4 +9,4 @@
 </div>
 <br>
 
-![visitors](https://counter.iminlikewithyou.repl.co/get)
+![visitors](https://iilwy.replit.app/get)

@@ -9,4 +9,4 @@
 </div>
 <br>
 
-![visitors](https://iilwy.replit.app/get)
+<!-- ![visitors](https://iilwy.replit.app/get) -->
